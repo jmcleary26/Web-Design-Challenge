@@ -1,0 +1,25 @@
+a.navbar-brand{
+    margin-left: 12px;
+    padding: 10px;
+    background-color: turquoise;
+    font: "Times New Roman", Times, serif;
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h3{
+    font: "Times New Roman", Times, serif;
+    color: turquoise;
+    font-weight: bold;
+    background-color: white;
+    font-size: 25px;
+
+}
+
+p{
+    font-size: 20px;
+    font: "Times New Roman", Times, serif;
+    
+}
